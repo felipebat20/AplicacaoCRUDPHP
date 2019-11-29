@@ -1,2 +1,2 @@
 # AplicacaoCRUDPHP
-Trabalho criado para a faculdade.
+Uma aplicação Crud que utiliza banco de dados MySQL e para as mascáras dos campos jQuery.
